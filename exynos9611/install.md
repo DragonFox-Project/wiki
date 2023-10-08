@@ -227,7 +227,7 @@ Odin is a Windows/Linux proprietary Samsung tool for interfacing with Download m
 
 # Installing Add-Ons
 > [!Note]
-> If you don’t want to install any add-on (such as Google Apps), or you're using GMS variant, you can skip this whole section!
+> If you don’t want to install any add-on (such as Google Apps, but this is not needed anyways if you're using GMS variant), you can skip this whole section!
 
 > [!Note]
 > Add-ons aren’t signed with ROM’s official key, and therefore when they are sideloaded, ROM Recovery will present a screen that says Signature verification failed, this is expected, please click Continue.
